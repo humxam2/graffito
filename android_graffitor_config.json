@@ -10,61 +10,6 @@
       "isFree": true
     },
     {
-      "fontId": "2",
-      "isNumerable": false,
-      "isFree": true
-    },
-    {
-      "fontId": "3",
-      "isNumerable": false,
-      "isFree": true
-    },
-    {
-      "fontId": "5",
-      "isNumerable": false,
-      "isFree": true
-    },
-    {
-      "fontId": "6",
-      "isNumerable": false,
-      "isFree": true
-    },
-    {
-      "fontId": "4",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "7",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "8",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "9",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "10",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "11",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "12",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
       "fontId": "14",
       "isNumerable": true,
       "isFree": true
@@ -72,6 +17,16 @@
     {
       "fontId": "15",
       "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "18",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "19",
+      "isNumerable": false,
       "isFree": true
     },
     {
@@ -83,16 +38,6 @@
       "fontId": "17",
       "isNumerable": true,
       "isFree": false
-    },
-    {
-      "fontId": "18",
-      "isNumerable": true,
-      "isFree": true
-    },
-    {
-      "fontId": "19",
-      "isNumerable": false,
-      "isFree": true
     },
     {
       "fontId": "20",
