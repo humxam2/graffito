@@ -5,11 +5,6 @@
   "file_url":"https://github.com/humxam2/graffito/raw/main/",
   "availableFonts": [
     {
-      "fontId": "1",
-      "isNumerable": false,
-      "isFree": true
-    },
-    {
       "fontId": "14",
       "isNumerable": true,
       "isFree": true
@@ -37,7 +32,7 @@
     {
       "fontId": "17",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "20",
@@ -52,7 +47,7 @@
     {
       "fontId": "22",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "23",
