@@ -2,7 +2,7 @@
 "latest_version": "1.2.6",
 "is_testing": false,
   "is_force_update": true,
-  "file_url":"https://github.com/humxam2/graffito/raw/main/",
+  "file_url":"https://github.com/humxam/graffito/raw/main/",
   "availableFonts": [
     {
       "fontId": "14",
